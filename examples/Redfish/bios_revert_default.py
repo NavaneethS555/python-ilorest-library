@@ -17,6 +17,10 @@
 An example for reverting the BIOS to default values
 """
 
+# BIOS(Basic Input/Output System) is the program that is used to start the computer system after it is powered on.
+# The sys module in Python provides various functions and variables that are used to manipulate different parts of the Python runtime environment.
+# JSON: JavaScript Object Notation - Helps in storing and exchanging of the data.
+
 import sys
 import json
 from redfish import RedfishClient
